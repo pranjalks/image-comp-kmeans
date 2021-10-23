@@ -9,5 +9,6 @@ Using the K-Means algorithm imported from sklean python library, image compressi
 
 # Example Image
 For the example image uploaded inside this repository:
-Initial size of the Image: 206 KB
-Size of the Compressed Image: 100 KB
+Initial size of the Image: 1.31 MB
+Size of the Compressed Image: 0.99 MB
+Image compressed by 24.43%
